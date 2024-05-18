@@ -49,3 +49,12 @@ emphasize 강조하다
 indicate 나타내다
 In prose 산문ㅁ에서
 parentheses 괄호
+the reader 독자
+at times 때로는
+requires 필요하다
+compromise 타협
+worth 가치
+indents 들여쓰기
+otherwise 그렇지 않으면
+A rather than B/rather A than B B보다 A를 긍정함
+that might otherwise A A할 수도 있는
